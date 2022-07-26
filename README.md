@@ -1,12 +1,12 @@
-# De-QuIP-Denoising
-Denoising by Quantum Interactive Patches
-
+# De-QuIP-Denoising (Denoising by Quantum Interactive Patches)
+The following script shows an example of our image denoising algorithm
+-------------------------------------------------------------------------------------------------------------
 
 Sample code of the papers:
 
 1)	Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis Kouamé,
 	"A Novel Image Denoising Algorithm Using Concepts of Quantum Many-Body Theory,"
-	arXiv preprint arXiv(2021).
+	Signal Processing, vol. 201, pp. 108690, 2022, doi: 10.1016/j.sigpro.2022.108690
 
 2)	Sayantan Dutta, Adrian Basarab, Bertrand Georgeot, and Denis Kouamé,
 	"Image Denoising Inspired by Quantum Many-Body physics,"
